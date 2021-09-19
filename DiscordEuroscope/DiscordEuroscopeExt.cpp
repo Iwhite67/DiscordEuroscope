@@ -2,12 +2,12 @@
 #include "DiscordEuroscopeExt.h"
 
 
-DiscordEuroscopeExt::DiscordEuroscopeExt() : EuroScopePlugIn::CPlugIn(EuroScopePlugIn::COMPATIBILITY_CODE, "Discord Euroscope", "1.1.0", "Kirollos Nashaat", "https://github.com/Kirollos/DiscordEuroscope")
+DiscordEuroscopeExt::DiscordEuroscopeExt() : EuroScopePlugIn::CPlugIn(EuroScopePlugIn::COMPATIBILITY_CODE, "Discord Euroscope", "1.2.0", "Kirollos Nashaat", "https://vatsim.fr")
 {
 	DiscordEventHandlers handlers;
 	memset(&handlers, 0, sizeof(handlers));
 	// handlers
-	Discord_Initialize("477907858072272896", &handlers, 1, NULL);
+	Discord_Initialize("889236297808498719", &handlers, 1, NULL);
 	this->EuroInittime = (int)time(NULL);
 
 	char DllPathFile[_MAX_PATH];
@@ -58,12 +58,12 @@ DiscordEuroscopeExt::DiscordEuroscopeExt() : EuroScopePlugIn::CPlugIn(EuroScopeP
 	char* dmsg = new char[100];
 	int count = RadioCallsigns.size();
 	sprintf(dmsg, "Successfully parsed %i callsign%s", count, count == 1 ? "!" : "s!");
-	DisplayUserMessage("Message", "DiscordEuroscope", dmsg, true, true, false, true, false);
+	DisplayUserMessage("Message", "DiscordEuroscope_FrenchvACC", dmsg, true, true, false, true, false);
 	if (count == 0)
 	{
-		DisplayUserMessage("Message", "DiscordEuroscope", "If you haven't configured this properly, make sure you are writing to", true, true, false, true, false);
-		DisplayUserMessage("Message", "DiscordEuroscope", "DiscordEuroscope_RadioCallsigns.txt, Each line holds a callsign", true, true, false, true, false);
-		DisplayUserMessage("Message", "DiscordEuroscope", "Example: HECC_CTR Cairo Control", true, true, false, true, false);
+		DisplayUserMessage("Message", "DiscordEuroscope_FrenchvACC", "If you haven't configured this properly, make sure you are writing to", true, true, false, true, false);
+		DisplayUserMessage("Message", "DiscordEuroscope_FrenchvACC", "DiscordEuroscope_RadioCallsigns.txt, Each line holds a callsign", true, true, false, true, false);
+		DisplayUserMessage("Message", "DiscordEuroscope_FrenchvACC", "Example: LFEE_CTR Reims Control", true, true, false, true, false);
 	}
 	delete dmsg;
 #endif
@@ -83,7 +83,7 @@ VOID CALLBACK DiscordTimer(_In_ HWND hwnd, _In_ UINT uMsg, _In_ UINT_PTR idEvent
 		return;
 	DiscordRichPresence discordPresence;
 	memset(&discordPresence, 0, sizeof(discordPresence));
-	discordPresence.largeImageKey = "es";
+	discordPresence.largeImageKey = "frenchvacc"; // duzy
 	discordPresence.startTimestamp = inst->EuroInittime;
 	switch (pMyPlugIn->GetConnectionType())
 	{

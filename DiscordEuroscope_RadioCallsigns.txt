@@ -1,0 +1,201 @@
+LFAQ_TWR Albert-Bray Tower
+LFAT_TWR Le Touquet Tower
+LFBA_TWR Agen Tower
+LFBB_CTR Bordeaux Control
+LFBB_N_CTR Bordeaux Control
+LFBB_S_CTR Bordeaux Control
+LFBD_APP Aquitaine Approach
+LFBD_E_APP Aquitaine East Approach
+LFBD_GND Merignac Ground
+LFBD_TWR Merignac Tower
+LFBE_TWR Bergerac Tower
+LFBG_TWR Cognac Tower
+LFBH_APP La Rochelle Approach
+LFBH_TWR La Rochelle Tower
+LFBI_APP Poitiers Approach
+LFBI_TWR Poitiers Biard Tower
+LFBL_APP Limoge Approach
+LFBL_TWR Limoges Tower
+LFBO_APP Toulouse Approach
+LFBO_DEL Blagnac Delivery
+LFBO_E_APP Toulouse East Approach
+LFBO_GND Blagnac Ground
+LFBO_TWR Blagnac Tower
+LFBO_W_APP Toulouse West Approach
+LFBP_APP Pyrennees Approach
+LFBP_GND Pau Ground
+LFBP_TWR Pau Tower
+LFBT_GND Lourdes Ground
+LFBT_TWR Lourdes Tower
+LFBZ_APP Biarritz Approach
+LFBZ_GND Biarritz Ground
+LFBZ_TWR Biarritz Tower
+LFCL_TWR Lasbordes Tower
+LFCR_TWR Rodez Tower
+LFEE_CTR Reims Control
+LFEE_N_CTR Reims Control
+LFEE_S_CTR Reims Control
+LFFF_CTR Paris Control
+LFFF_N_CTR Paris Control
+LFFF_S_CTR Paris Control
+LFFF_W_CTR Paris Control
+LFFM_CTR France Military Control
+LFGA_TWR Houssen Tower
+LFGJ_TWR Dole Tower
+LFJL_APP Lorraine Approach
+LFJL_GND Lorraine Ground
+LFJL_TWR Lorraine Tower
+LFKB_APP Bastia Approach
+LFKB_GND Bastia Ground
+LFKB_TWR Bastia Tower
+LFKC_GND Calvi Ground
+LFKC_TWR Calvi Tower
+LFKF_GND Figari Ground
+LFKF_TWR Figari Tower
+LFKJ_APP Ajaccio Approach
+LFKJ_GND Ajaccio Ground
+LFKJ_TWR Ajaccio Tower
+LFLB_APP Chambéry Approach
+LFLB_TWR Chambéry Tower
+LFLC_APP Clermont Approach
+LFLC_GND Clermont Ground
+LFLC_S_APP Clermont South Approach
+LFLC_TWR Clermont Tower
+LFLD_I_TWR Bourges AFIS
+LFLG_GND Le Versoux ground
+LFLG_TWR Le Versoux Tower
+LFLL_APP Lyon Approach
+LFLL_DEL Saint Exupéry Delivery
+LFLL_DEP Lyon Departure
+LFLL_E_APP Lyon East Approach
+LFLL_GND Saint Exupéry Ground
+LFLL_TWR Saint-Exupéry Tower
+LFLP_TWR Annecy Tower
+LFLS_GND Grenoble Ground
+LFLS_TWR Grenoble Tower
+LFLV_I_TWR Vichy AFIS
+LFLX_TWR Chateauroux Tower
+LFLY_GND Bron Ground
+LFLY_TWR Bron Tower
+LFMA_TWR Aix Tower
+LFMD_GND Mandelieu Ground
+LFMD_TWR Mandelieu Tower
+LFMH_TWR Saint Etienne Tower
+LFMI_TWR Le Tube Tower
+LFMK_TWR Carcassonne Tower
+LFML_APP Provence Approach
+LFML_DEL Provence Delivery
+LFML_GND Provence Ground
+LFML_S_APP Provence South Approach
+LFML_TWR Provence Tower
+LFMM_CTR Marseille Control
+LFMM_E_CTR Marseille Control
+LFMM_N_CTR Marseille Control
+LFMM_S_CTR Marseille Control
+LFMN_APP Nice Approach
+LFMN_DEL Nice Delivery
+LFMN_DEP Nice Departure
+LFMN_E_APP Nice Approach
+LFMN_F_APP Nice Approach
+LFMN_GND Nice Ground
+LFMN_TWR Nice Tower
+LFMO_TWR Orange Tower
+LFMP_TWR Perpignan Tower
+LFMT_APP Montpellier Approach
+LFMT_GND Montpellier Ground
+LFMT_S_APP Montpellier Sud Approach
+LFMT_TWR Montpellier Tower
+LFMU_TWR Beziers Tower
+LFMV_TWR Avignon Tower
+LFOA_APP Avord Approach
+LFOA_TWR Avord Tower
+LFOB_APP Beauvais Approach
+LFOB_TWR Beauvais Tower
+LFOC_TWR Chateaudun Tower
+LFOH_I_TWR Le Havre AFIS
+LFOJ_APP Orléans Approach
+LFOJ_TWR Orléans Tower
+LFOP_APP Rouen Approach
+LFOP_TWR Rouen Tower
+LFOT_APP Tours Approach
+LFOT_TWR Tours Tower
+LFOU_I_TWR Cholet AFIS
+LFPB_DEL Le Bourget Delivery
+LFPB_GND Le Bourget Ground
+LFPB_TWR Le Bourget Tower
+LFPG_APP De Gaulle Approach
+LFPG_A_GND De Gaulle Apron
+LFPG_DEL De Gaulle Delivery
+LFPG_DEP De Gaulle Departure
+LFPG_F_APP De Gaulle Arrival
+LFPG_GND De Gaulle Ground
+LFPG_G_APP De Gaulle Arrival
+LFPG_S_APP De Gaulle Approach
+LFPG_S_DEP De Gaulle Departure
+LFPG_S_GND De Gaulle Ground
+LFPG_S_TWR De Gaulle Tower
+LFPG_TWR De Gaulle Tower
+LFPL_TWR Lognes Tower
+LFPN_TWR Toussus Tower
+LFPO_APP Orly Approach
+LFPO_DEL Orly Delivery
+LFPO_DEP Orly Departure
+LFPO_F_APP Orly Arrival
+LFPO_GND Orly Ground
+LFPO_TWR Orly Tower
+LFQQ_APP Lille Approach
+LFQQ_GND Lille Ground
+LFQQ_TWR Lille Tower
+LFQT_TWR Merville Tower
+LFRB_APP Iroise Approach
+LFRB_I_APP Brest Info
+LFRB_TWR Bretagne Tower
+LFRC_I_TWR Cherbourg AFIS
+LFRD_TWR Dinard Tower
+LFRG_APP Deauville Approach
+LFRG_TWR Deauville Tower
+LFRH_APP Lorient Approach
+LFRH_TWR Lorient Tower
+LFRK_TWR Caen Tower
+LFRN_APP Rennes Approach
+LFRN_C_APP Contentin Info
+LFRN_GND Rennes Ground
+LFRN_N_APP Rennes North Approach
+LFRN_TWR Rennes Tower
+LFRQ_TWR Quimper Tower
+LFRR_A_CTR Brest Control
+LFRR_CTR Brest Control
+LFRR_E_CTR Brest Control
+LFRR_J_CTR Brest Control
+LFRR_N_CTR Brest Control
+LFRR_Q_CTR Brest Control
+LFRR_S_CTR Brest Control
+LFRR_V_CTR Brest Control
+LFRR_W_CTR Brest Control
+LFRS_APP Nantes Approach
+LFRS_GND Nantes Ground
+LFRS_N_APP Nantes Information
+LFRS_TWR Nantes Tower
+LFRZ_TWR Saint Nazaire Tower
+LFSB_APP Bale Approach
+LFSB_C_APP Bale Control
+LFSB_DEL Bale Delivery
+LFSB_GND Bale Ground
+LFSB_TWR Bale Tower
+LFSF_TWR Metz Tower
+LFSI_TWR Saint Dizier Tower
+LFSO_TWR Ochey Tower
+LFSR_APP Reims Approach
+LFSR_TWR Reims Tower
+LFST_APP Strasbourg Approach
+LFST_GND Strasbourg Ground
+LFST_TWR Strasbourg Tower
+LFSX_TWR Luxeuil Tower
+LFTH_APP Toulon Approach
+LFTH_GND Palyvestre Ground
+LFTH_TWR Palyvestre Tower
+LFTW_GND Garons Ground
+LFTW_TWR Garons Tower
+LFUP_CTR FRANCE Control
+LFYR_TWR Romorantin Tower
+LNMC_TWR Monaco Monte Carlo
