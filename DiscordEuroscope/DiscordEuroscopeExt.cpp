@@ -2,7 +2,7 @@
 #include "DiscordEuroscopeExt.h"
 
 
-DiscordEuroscopeExt::DiscordEuroscopeExt() : EuroScopePlugIn::CPlugIn(EuroScopePlugIn::COMPATIBILITY_CODE, "Discord Euroscope", "1.2.0", "Kirollos Nashaat", "https://vatsim.fr")
+DiscordEuroscopeExt::DiscordEuroscopeExt() : EuroScopePlugIn::CPlugIn(EuroScopePlugIn::COMPATIBILITY_CODE, "Discord Euroscope", "1.2.0", "Kirollos Nashaat", "https://github.com/Kirollos/DiscordEuroscope")
 {
 	DiscordEventHandlers handlers;
 	memset(&handlers, 0, sizeof(handlers));
